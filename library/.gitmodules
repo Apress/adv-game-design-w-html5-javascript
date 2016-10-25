@@ -1,0 +1,3 @@
+[submodule "plugins/traceur-compiler"]
+	path = plugins/traceur-compiler
+	url = https://github.com/google/traceur-compiler.git
